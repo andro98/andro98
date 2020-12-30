@@ -1,8 +1,7 @@
 ### Hi there, I'm Andrew 👋
 I am a software developer, graduated from the Faculty of Computer and Artificial Intelligence Cairo University.
 
-🌱 I’m currently learning Swift and IOS <br>
-🤔 I’m looking for help with finding a mac 💻 <br>
+🌱 I’m currently an IOS Developer at Eva Pharma <br>
 👯 I’m looking to collaborate on open source projects <br>
 🔭 I’m currently working on an idea for an application<br>
 📫 How to reach me:<br>
